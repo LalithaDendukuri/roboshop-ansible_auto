@@ -1,0 +1,1 @@
+# roboshop-ansible_auto
